@@ -1,8 +1,6 @@
 # Beer Project
 ## Instruktioner
-Utse en gruppledare som forkar det här repot och bjuder in de andra som collaborators.
-
-## Punk API
+Utse en gruppledare som forkar det här repot och bjuder in de andra som collaborators..
 Ni ska bygga en öl-wiki som använder sig av data från Punk API:et (https://punkapi.com/documentation/v2). Hemsidan ska bestå av tre olika vyer (sidor)(se nedan för information om de olika sidorna). Förutom de krav som specificeras nedan har ni fria händer (exempelvis gällande design).
 
 ## Kravspecifikation
